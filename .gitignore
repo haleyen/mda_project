@@ -1,0 +1,30 @@
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# ── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── OSMnx HTTP cache (auto-generated, not source code) ───────────────────────
+cache/
+explo/andy/cache/
+
+# ── GeoPackage binary files (large, regenerable) ─────────────────────────────
+*.gpkg
+
+# ── Large Wegenregister derived files ────────────────────────────────────────
+explo/andy/explo/andy/wegsegment_clean.csv
+explo/andy/explo/andy/wegsegment_clean.gpkg
+
+# ── Raw source data (too large for git) ──────────────────────────────────────
+data/extra/Wegenregister/
+
+# ── IDE / OS ─────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
