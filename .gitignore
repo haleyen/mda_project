@@ -28,3 +28,5 @@ data/extra/Wegenregister/
 .idea/
 .DS_Store
 Thumbs.db
+
+explo/andy/output/*.gpkg
