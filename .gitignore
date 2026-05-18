@@ -30,3 +30,9 @@ data/extra/Wegenregister/
 Thumbs.db
 
 explo/andy/output/*.gpkg
+
+# ── Yenha: large generated features/labels (regenerate from notebooks) ───────
+explo/yenha/data/
+explo/yenha/feature/*.csv
+explo/yenha/label/*.csv
+!explo/yenha/feature/fts_population.csv
