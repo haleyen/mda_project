@@ -20,8 +20,8 @@ explo/andy/cache/
 explo/andy/explo/andy/wegsegment_clean.csv
 explo/andy/explo/andy/wegsegment_clean.gpkg
 
-# ── Raw source data (too large for git) ──────────────────────────────────────
-data/extra/Wegenregister/
+# # ── Raw source data (too large for git) ──────────────────────────────────────
+# data/extra/Wegenregister/
 
 # ── IDE / OS ─────────────────────────────────────────────────────────────────
 .vscode/
@@ -30,9 +30,3 @@ data/extra/Wegenregister/
 Thumbs.db
 
 explo/andy/output/*.gpkg
-
-# ── Yenha: large generated features/labels (regenerate from notebooks) ───────
-explo/yenha/data/
-explo/yenha/feature/*.csv
-explo/yenha/label/*.csv
-!explo/yenha/feature/fts_population.csv
