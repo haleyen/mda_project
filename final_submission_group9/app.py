@@ -12,7 +12,7 @@ from shinywidgets import output_widget, render_widget
 BASE_DIR = os.path.dirname(os.path.abspath(__file__)) if "__file__" in dir() else os.getcwd()
 
 PATH_DATA = os.path.join(BASE_DIR, "../data")
-PATH_TRAFFIC = os.path.join(PATH_DATA, "../traffic")
+PATH_TRAFFIC = os.path.join(PATH_DATA, "traffic")
 
 FILEPATH_RICH = os.path.join(PATH_DATA, "richtingen.csv")
 FILEPATH_SITE = os.path.join(PATH_DATA, "sites.csv")
