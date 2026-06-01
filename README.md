@@ -4,7 +4,7 @@ Modern Data Analytics (G0Z39a) · Academic Year 2025–2026
 
 ## Team
  
-Tuan Anh Trinh · Van Ha Pham · Harper Le · Thuy Linh Hoang
+Harper Le (YenHa Le) · Tuan Anh Trinh · Van Ha Pham · Thuy Linh Hoang
 
 # Bicycle Traffic Volume Estimation in Flanders
  
